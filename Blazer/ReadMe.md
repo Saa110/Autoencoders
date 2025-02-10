@@ -50,14 +50,14 @@ pip install -r requirements.txt
 After setting up, run the main Python script:
 
 ```bash
-python autoencoder.py
+python MainCode.py
 ```
 
 If the script is in a different location, navigate there first:
 
 ```bash
 cd path/to/script_directory
-python autoencoder.py
+python MainCode.py
 ```
 
 ---
