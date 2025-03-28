@@ -10,5 +10,5 @@ pip install -r requirements.txt
 
 then run-
 ```
-Python311 ./main.py
+python ./main.py
 ```
