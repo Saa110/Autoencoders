@@ -74,7 +74,7 @@ def plot_results(history):
     plt.show()
 
 # Main Execution
-file_path = "/content/STVs.csv"
+file_path = "data/STVs.csv"
 X, Y = load_and_preprocess_data(file_path)
 
 # Split data into training and testing sets
